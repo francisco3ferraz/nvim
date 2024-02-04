@@ -11,7 +11,6 @@ return {
                     "gomod",
                     "gosum",
                     "gowork",
-                    "c",
                 },
                 auto_install = true,
                 highlight = { enable = true },
